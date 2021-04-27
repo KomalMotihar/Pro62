@@ -1,0 +1,50 @@
+.menu {
+    float: inherit;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+.links {
+    text-decoration: none;
+    display: inline;
+    color: white;
+    font-weight: bold;
+    list-style: none;
+    padding: 10px;
+}
+
+.line {
+    width: 50px;
+    height: 5px;
+    margin: 10px auto;
+    background-color: black;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#fc88fc 0%, #fcee4c 100%);
+}
+
+img {
+    width: 1000px;
+    height: 500px;
+}
+
+.img2 {
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+    padding-left: 100px;
+    border: 10px;
+}
+#slideview img{
+    width:500px !important; 
+    height: 500px !important;
+}
